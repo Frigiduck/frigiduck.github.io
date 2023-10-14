@@ -1,0 +1,105 @@
+body.index {
+    background-color: black;
+}
+body.portfolio {
+    background-color: darkslategray;
+}
+body.hell {
+    background-image: url(https://media.discordapp.net/attachments/899084319295930509/1157155009482461204/hell.jpg?ex=65179415&is=65164295&hm=a73460c2e847ac93f3ee1d250bef00adad3555414796cc220e6ff21774335cb4&=)
+}
+h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#table1 {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 50%;
+}
+#table2 {
+    width: 100%;
+}
+tr {
+    height: 30px;
+}
+tr.border {
+    outline: thin solid;
+    outline-color: white;
+}
+td {
+    text-align: center;
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+}
+.tdportfolio {
+    text-align: center;
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+}
+ul li {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+ol li {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+q {
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.hell {
+    width: 80%;
+    margin: auto;
+    position: relative;
+}
+img.hellportal {
+    box-shadow: 4px 4px rgba(255, 0, 0, 0.5);
+}
+img.stupidface {
+    border-radius: 10px;
+}
+#hell {
+    width: 100%;
+}
+audio {
+    width: 25%;
+}
+#software {
+    background-color: darkslategray;
+}
+#friendquotes {
+    background-color: darkslategray;
+}
+a:link {
+    color: lightgray;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: gray;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
